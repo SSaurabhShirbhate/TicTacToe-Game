@@ -48,14 +48,11 @@ If you have a suggestion that would make this project better, please fork the re
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
 ## Contact
 
-Your Name - [Gmail](https://saurabhshirbhate.96@gmail.com) - your-email@example.com
+Your Name - [Gmail](https://saurabhshirbhate.96@gmail.com) -saurabhshirbhate.96@gmail.com
 
-Project Link: [https://github.com/your-username/tic-tac-toe](https://github.com/SSaurabhShirbhate/TicTacToe-Game)
+Project Link: [https://github.com/SSaurabhShirbhate/TicTacToe-Game](https://github.com/SSaurabhShirbhate/TicTacToe-Game)
