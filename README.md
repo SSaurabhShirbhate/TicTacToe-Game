@@ -53,6 +53,6 @@ If you have a suggestion that would make this project better, please fork the re
 
 ## Contact
 
-Your Name - [Gmail](https://saurabhshirbhate.96@gmail.com) -saurabhshirbhate.96@gmail.com
+Saurabh Shirbhate - [](https://saurabhshirbhate.96@gmail.com) -saurabhshirbhate.96@gmail.com
 
 Project Link: [https://github.com/SSaurabhShirbhate/TicTacToe-Game](https://github.com/SSaurabhShirbhate/TicTacToe-Game)
